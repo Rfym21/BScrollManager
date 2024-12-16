@@ -1,0 +1,2 @@
+# BScrollManager
+对BScroll进行进一步封装，更好的管理已创建的实例和加载其他插件
