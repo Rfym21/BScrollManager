@@ -1,0 +1,25 @@
+{
+  "name": "bscroll-manager",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@better-scroll/core": "^2.5.1",
+    "@better-scroll/indicators": "^2.5.1",
+    "@better-scroll/infinity": "^2.5.1",
+    "@better-scroll/mouse-wheel": "^2.5.1",
+    "@better-scroll/movable": "^2.5.1",
+    "@better-scroll/nested-scroll": "^2.5.1",
+    "@better-scroll/observe-dom": "^2.5.1",
+    "@better-scroll/observe-image": "^2.5.1",
+    "@better-scroll/pull-down": "^2.5.1",
+    "@better-scroll/pull-up": "^2.5.1",
+    "@better-scroll/scroll-bar": "^2.5.1",
+    "@better-scroll/slide": "^2.5.1",
+    "@better-scroll/wheel": "^2.5.1",
+    "@better-scroll/zoom": "^2.5.1"
+  }
+}
